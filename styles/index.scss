@@ -1,22 +1,26 @@
 .header {
 	display: flex;
+	background-color: white;
+	font-weight: bold;
 	&__heading {
 		margin: 0 auto;
 	}
 }
 
 .section {
+	background-color: white;
 	&__subheading {
-		font-size: 1.5rem;
+		font-size: 1rem;
 	}
 }
 
 .form {
 	margin: 2rem 0;
-	background-color: bisque;
+	background-color: white;
 
 	&__container {
 		margin: 2rem 0;
+		opacity: 1;
 	}
 
 	&__title {

@@ -6,6 +6,8 @@
 
 body {
   margin: 0;
-  padding: 1rem;
-  background-image: url("https://pikbest.com/backgrounds/music-notes-background-flowing-on-a-dark_9580724.html");
+  padding: 4rem 2rem;
+  background-image: url("../assets/images/caught-in-joy-ptVBlniJi50-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
 }/*# sourceMappingURL=resets.css.map */

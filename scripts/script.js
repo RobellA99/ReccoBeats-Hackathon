@@ -31,6 +31,7 @@ const recomendedTracks = async (trackId, danceability) => {
         anchorEl.appendChild(itemEl)
 
         itemEl.innerText = recommendedItems
+
     })
 }
 
@@ -41,9 +42,7 @@ formEl.addEventListener("submit", (event) => {
 
     const trackId = event.target.trackId.value
 
-    console.log(trackId);
-
-
+    // anchorEl.href = 
     // console.log(danceability);
 
 
