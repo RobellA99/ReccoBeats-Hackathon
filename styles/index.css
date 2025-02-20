@@ -1,1 +1,24 @@
-/*# sourceMappingURL=index.css.map */
+.header {
+  display: flex;
+}
+.header__heading {
+  margin: 0 auto;
+}
+
+.section__subheading {
+  font-size: 1.5rem;
+}
+
+.form {
+  margin: 2rem 0;
+  background-color: bisque;
+}
+.form__container {
+  margin: 2rem 0;
+}
+.form__title {
+  font-size: 1rem;
+}
+.form__label {
+  font-weight: bold;
+}/*# sourceMappingURL=index.css.map */

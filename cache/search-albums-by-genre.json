@@ -1,0 +1,608 @@
+{
+	"content": [
+		{
+			"id": "c67ecf73-8eec-4b1a-8b24-0ea7eb69d6b6",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "3bc397a6-1361-4a56-b662-b817ae2dbecd",
+					"name": "Trapland Pat",
+					"href": "https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/71kWmMEYEnaabVomYXJUuk",
+			"name": "Trap Dance",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2022-04-20T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "196589104335",
+			"label": "Alamo",
+			"popularity": 2
+		},
+		{
+			"id": "67d453cf-b86b-4839-a6cb-6c93e905aca7",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "6566ce22-cb5c-4f9b-a226-73387728df93",
+					"name": "Trap Remix Guys",
+					"href": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+				}
+			],
+			"totalTracks": 11,
+			"href": "https://open.spotify.com/album/2QDEWwAKI1GHhEWwvPzY5d",
+			"name": "Trap Hits of the Decade (70's to 90's)",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2024-06-09T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "9358782936675",
+			"label": "TR Guys",
+			"popularity": 15
+		},
+		{
+			"id": "16172d04-a634-4d15-beec-082f3d43c0b2",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "e4a29fb2-bfa3-45c8-a4a0-775bdd43a56e",
+					"name": "Remtrex",
+					"href": "https://open.spotify.com/artist/0abVZCup4kYtE8U0i5PsS3"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/65sD6xZrMifVgyi2KUnctc",
+			"name": "It's a Rap (Fire in the Booth)",
+			"availableCountries": "",
+			"releaseDate": "2018-09-25T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "885890797021",
+			"label": "BE83 / Remtrex",
+			"popularity": 0
+		},
+		{
+			"id": "2a453d50-2b1f-424c-8c37-d08ad7cb3d22",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "c06f0ffb-fe86-430d-a7cb-03d46ba219fb",
+					"name": "7981 Kal",
+					"href": "https://open.spotify.com/artist/5EvNVMCFlrCfEk0VoWDNme"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/5rikPA3GaT9BAfMwFE48Au",
+			"name": "Trap Addict",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2022-12-09T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "0739919147659",
+			"label": "7981 Kal",
+			"popularity": 14
+		},
+		{
+			"id": "efbdb345-b68c-4d43-a63f-7e149814f481",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "2103f97e-190d-4194-85bd-cebb4c87a949",
+					"name": "Photographer",
+					"href": "https://open.spotify.com/artist/073AaGdfoT7IzCpOgmKkql"
+				},
+				{
+					"id": "fe3c74e7-ef61-454a-9579-9361854e12e5",
+					"name": "GXD",
+					"href": "https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8"
+				},
+				{
+					"id": "53894be5-2e89-48d5-8038-dfd26d9414ee",
+					"name": "Elle Vee",
+					"href": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+				}
+			],
+			"totalTracks": 2,
+			"href": "https://open.spotify.com/album/6KK78RlHsUd0FRKfkzfFsE",
+			"name": "Voices (Photographer Remix)",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2020-07-31T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "8718525194587",
+			"label": "AVA White",
+			"popularity": 1
+		},
+		{
+			"id": "8386f87c-3242-471f-837a-26e4c25ec721",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "95219666-28b3-4dbb-b9b7-a76bb32a461d",
+					"name": "Afternoon Recharge",
+					"href": "https://open.spotify.com/artist/2gck1NAZoocAhiCRhUvLib"
+				}
+			],
+			"totalTracks": 20,
+			"href": "https://open.spotify.com/album/3DFJ4e2ZdM6Q5BHlEevwsH",
+			"name": "Music for Spa Therapy - Stellar Glockenspiel Music",
+			"availableCountries": "",
+			"releaseDate": "2022-01-13T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "0036089495659",
+			"label": "HFM Worldwide",
+			"popularity": 0
+		},
+		{
+			"id": "f1cdbd7b-2946-40b3-8cb3-f7b5ec9b95f9",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "adb74a78-6b06-4602-b9d6-08999be1e9d9",
+					"name": "Outside Broadcast Recordings",
+					"href": "https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ"
+				}
+			],
+			"totalTracks": 30,
+			"href": "https://open.spotify.com/album/3JybgKyg3Z4doA3lX4uClu",
+			"name": "Digital Recording Therapy",
+			"availableCountries": "",
+			"releaseDate": "2023-08-04T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5063164662601",
+			"label": "Ameritz Music Ltd",
+			"popularity": 0
+		},
+		{
+			"id": "18a38877-3987-4f3c-af33-b75f5c13fd5a",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "7f57cbdb-339e-43ba-b029-27abec098f5e",
+					"name": "REJECTEDREYNA",
+					"href": "https://open.spotify.com/artist/17QiD3EfxbtYdLIyMziuXw"
+				}
+			],
+			"totalTracks": 3,
+			"href": "https://open.spotify.com/album/4voB1P7gDLHU5ZjpenEuFY",
+			"name": "CARNOGRAPHIC",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2024-04-26T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "752470838552",
+			"label": "REJECTEDREYNA",
+			"popularity": 10
+		},
+		{
+			"id": "fc26d02a-6c36-4fd8-b2a9-cdeeac98a1e5",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "1985d55a-f1bf-47a3-84ed-9afc80e974e1",
+					"name": "Belly",
+					"href": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+				}
+			],
+			"totalTracks": 11,
+			"href": "https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P",
+			"name": "Mumble Rap",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,RW,TG,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2017-10-06T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "00850494008118",
+			"label": "Belly/Roc Nation",
+			"popularity": 31
+		},
+		{
+			"id": "eae95451-0720-416c-8f42-fe4a78927ff9",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "36210824-bb76-4460-ac24-9065e2e2193a",
+					"name": "SII2",
+					"href": "https://open.spotify.com/artist/3xCc6rU72LqNEwWux0DiI0"
+				}
+			],
+			"totalTracks": 4,
+			"href": "https://open.spotify.com/album/6wlITIRSqJ0IYMnYyq1bOr",
+			"name": "techno&trap",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2024-01-26T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "019307018694",
+			"label": "BlackScreenProductions",
+			"popularity": 4
+		},
+		{
+			"id": "e27f332e-5e0c-40a1-a60b-14beab841957",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "178196a7-6d1a-4cdc-a65e-740abdbbc55d",
+					"name": "Angel Lover",
+					"href": "https://open.spotify.com/artist/1ajpdrNqIR1IjUK4GZzvE7"
+				},
+				{
+					"id": "bc778015-9b0a-4e51-9a67-147244cef148",
+					"name": "Jean Philippe Winne",
+					"href": "https://open.spotify.com/artist/22dga67mk1hpAeODYArhEI"
+				},
+				{
+					"id": "4953975e-3dc5-45bc-bbcc-0762e18d33dc",
+					"name": "Les Winner's",
+					"href": "https://open.spotify.com/artist/2juk3LswaxtblsRkznAdzu"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/38SCF6zGfp0Em45usyhieh",
+			"name": "Archange Raphaël",
+			"availableCountries": "",
+			"releaseDate": "2024-07-25T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "759158079023",
+			"label": "Les Winner's",
+			"popularity": 0
+		},
+		{
+			"id": "4dd80b01-547e-487a-a2ae-db020a53d35b",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "48e8ecf6-f931-468f-b655-af4fe9aaef10",
+					"name": "Diggz Da Prophecy",
+					"href": "https://open.spotify.com/artist/1HYQNCFOvaVxl9Zr5HvPrH"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/7bcngjppSOb42rHMXcBJny",
+			"name": "Overtime (Kento Nanami Rap)",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2021-10-24T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "196510473943",
+			"label": "AClass Company",
+			"popularity": 1
+		},
+		{
+			"id": "4866d0ca-5e96-4c61-86a7-bb9e3b7ad7f6",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "dc45e02f-ab0d-4f1e-ab41-5a78680bc4db",
+					"name": "Moose",
+					"href": "https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC"
+				}
+			],
+			"totalTracks": 12,
+			"href": "https://open.spotify.com/album/1DRFCTLK33ADnUus5aU4cr",
+			"name": "In Greece We Trap",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2019-11-29T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5206999022985",
+			"label": "Jungle Juice Records a division of Cobalt Music – Helladisc S.A. (GR)",
+			"popularity": 21
+		},
+		{
+			"id": "a137b803-f13e-485c-af6d-5b0ec47ec419",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "d632f0c8-886d-4b54-bd75-4d5a46056d25",
+					"name": "Muni Yogi",
+					"href": "https://open.spotify.com/artist/0Bkfnkxg4D7pqIQgEDuYw4"
+				}
+			],
+			"totalTracks": 10,
+			"href": "https://open.spotify.com/album/4qpFWx7WrbKFVGIv7Hc0g0",
+			"name": "Music for Relaxing Music Therapy",
+			"availableCountries": "",
+			"releaseDate": "2020-02-19T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "0820257717939",
+			"label": "Muni Yogi 2854209172 Sounds",
+			"popularity": 0
+		},
+		{
+			"id": "236611c4-5aa4-48ca-8fb9-f1de15eaca69",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "9d7226d5-b662-452d-aafb-ff87cab97be5",
+					"name": "Therapy Classic",
+					"href": "https://open.spotify.com/artist/4gt2i5uu3LNOeTxk9QKQmn"
+				}
+			],
+			"totalTracks": 50,
+			"href": "https://open.spotify.com/album/4UupZvAkTh0nN8GMhPmo1V",
+			"name": "Therapy Playlist",
+			"availableCountries": "",
+			"releaseDate": "2024-04-29T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5063431847281",
+			"label": "Meditation Music",
+			"popularity": 0
+		},
+		{
+			"id": "7340c67f-3dfd-466a-8f36-5fe8149cf7b4",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "5a22cf5e-cdbc-4e52-af04-e0fd14489413",
+					"name": "Abhimanyu-Pragya",
+					"href": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+				},
+				{
+					"id": "be63f5a8-1857-4027-b5c6-d6f5a5c190f9",
+					"name": "Surinder Kaur",
+					"href": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/3SpVuX6t2lNBhHWux9tvWv",
+			"name": "Ek Meri Akh Kashni (Drill Trap) - Single",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2023-03-21T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "197188412852",
+			"label": "Saregama",
+			"popularity": 0
+		},
+		{
+			"id": "9ca0d496-a512-4f00-a1e7-001594313569",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "7163818e-5dd1-41cf-bbf1-c593712c51c2",
+					"name": "Jay de Lys",
+					"href": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+				},
+				{
+					"id": "392edcb8-0e17-437e-97c3-f0f1a2894571",
+					"name": "Jamie Roy",
+					"href": "https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM"
+				}
+			],
+			"totalTracks": 2,
+			"href": "https://open.spotify.com/album/5NjWtjIAEPP1MJFGWPvT9v",
+			"name": "Trap Low EP",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2018-11-09T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5054283869545",
+			"label": "Lost Audio",
+			"popularity": 0
+		},
+		{
+			"id": "0faa768c-fc21-4d5f-b815-df5d572ecdb7",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "5b2b967d-6e27-48ce-9bf8-b9a20d91e6e0",
+					"name": "Mister Ethan",
+					"href": "https://open.spotify.com/artist/03avwC0Ac0WDl5sPjWgA5h"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/5Lz6OLZVWYhYhpGQdpyQbk",
+			"name": "sea shanty trap",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2023-01-07T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "197511204284",
+			"label": "1496555 Records DK",
+			"popularity": 25
+		},
+		{
+			"id": "70d857fe-41c5-4090-bde1-9ce823d93177",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "13f4429d-3121-4e77-a000-a105e8bbb7a0",
+					"name": "Rachel Sandy",
+					"href": "https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/60LuwgxuNUoddPENXk85zd",
+			"name": "Photograph",
+			"availableCountries": "",
+			"releaseDate": "2021-03-15T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "054391718600",
+			"label": "Rachel Sandy",
+			"popularity": 0
+		},
+		{
+			"id": "d49c02d3-151e-44a1-a08c-2c37a034fa6e",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "72291631-3db8-4933-ade6-1d89e5415528",
+					"name": "Rajalakshmi",
+					"href": "https://open.spotify.com/artist/041Z1VBL5OaPTlrlLTH7Pb"
+				},
+				{
+					"id": "cb95c4f5-1ac5-4f13-ab2f-45cca6f3f6a8",
+					"name": "Baiju Jacob",
+					"href": "https://open.spotify.com/artist/5vDVZD7qmHX9WujAfkUEzU"
+				},
+				{
+					"id": "d3951ce5-39ab-4125-9fad-4daf1cd4f585",
+					"name": "Jayachandran aka JVR",
+					"href": "https://open.spotify.com/artist/7DZZ368tLsLWH6BnZqmCRC"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/4aAKNclix1CFrglIlhyO30",
+			"name": "Manthirapetti (From \"Saandrithazh\")",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2023-04-08T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "197188620172",
+			"label": "Saregama",
+			"popularity": 0
+		},
+		{
+			"id": "8c5de77c-35a7-434a-8033-5d9207d3cd14",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "644b490a-08a3-4cae-8f23-641b2977f377",
+					"name": "Kasger",
+					"href": "https://open.spotify.com/artist/7yNRNJLaYfFD1EINyJiYap"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/1PkJTNPL4y7s86xs0bwJiD",
+			"name": "Rapid",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2016-06-13T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5054316639411",
+			"label": "Kasger",
+			"popularity": 21
+		},
+		{
+			"id": "b32599b9-5e68-4cf3-87c6-a5c300e00104",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "4cacc68d-08f5-4b8c-a553-bb15bbf341ce",
+					"name": "Audio-X",
+					"href": "https://open.spotify.com/artist/1dtRYSsrS5aGvmb5ndDWJt"
+				},
+				{
+					"id": "f57caa33-67dc-49ab-9964-e2be01024664",
+					"name": "Adalamoon",
+					"href": "https://open.spotify.com/artist/5UWvbKaUYy38G6HyKQXhpu"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/4oniKr24HQ0PFQ7zvgkA7T",
+			"name": "Psycho Therapy",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2021-04-19T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5054285686010",
+			"label": "Spectral Illusions",
+			"popularity": 0
+		},
+		{
+			"id": "39df722d-2979-44f1-b9d0-570ad91b070e",
+			"albumType": "album",
+			"artists": [
+				{
+					"id": "3a214b06-6d25-4c8d-ab0a-cb75d34e3655",
+					"name": "avatar zen",
+					"href": "https://open.spotify.com/artist/3siiGK92Kp77rCWc1vOWUI"
+				}
+			],
+			"totalTracks": 10,
+			"href": "https://open.spotify.com/album/2inyMVUgK6SzdVcfyZC6Gi",
+			"name": "Fire Therapy 1.0",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2021-06-03T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "196251678485",
+			"label": "1318637 Records DK2",
+			"popularity": 9
+		},
+		{
+			"id": "8a21005c-c2b8-465e-bd47-95e9b83e0f58",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "78d962c7-3870-4d01-a015-311fa0306fcd",
+					"name": "Sathi Khan",
+					"href": "https://open.spotify.com/artist/5sUOpTp0GckrdAO2U1TLRJ"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/01SZFBLMvJG2naaS9wtPDb",
+			"name": "Aaj Amar Bhishon Mon Kharap",
+			"availableCountries": "",
+			"releaseDate": "2024-01-04T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "3617382435077",
+			"label": "Sathi Khan",
+			"popularity": 0
+		},
+		{
+			"id": "4908bc99-f3da-4f41-9aaa-65905026f1cf",
+			"albumType": "single",
+			"artists": [
+				{
+					"id": "bf017d0f-5baa-47e6-8b54-e36ae51ddc28",
+					"name": "Reli Beats",
+					"href": "https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5"
+				},
+				{
+					"id": "97ea5121-81d8-4c2f-8a7c-149239c44ce4",
+					"name": "AesUno",
+					"href": "https://open.spotify.com/artist/6XhXfXQZNqlcxxo4VN5ZyV"
+				}
+			],
+			"totalTracks": 1,
+			"href": "https://open.spotify.com/album/47nv8yJ2eieiX9g2ktRAzl",
+			"name": "Base de Rap Epica",
+			"availableCountries": "AR,AU,AT,BE,BO,BR,BG,CA,CL,CO,CR,CY,CZ,DK,DO,DE,EC,EE,SV,FI,FR,GR,GT,HN,HK,HU,IS,IE,IT,LV,LT,LU,MY,MT,MX,NL,NZ,NI,NO,PA,PY,PE,PH,PL,PT,SG,SK,ES,SE,CH,TW,TR,UY,US,GB,AD,LI,MC,ID,JP,TH,VN,RO,IL,ZA,SA,AE,BH,QA,OM,KW,EG,MA,DZ,TN,LB,JO,PS,IN,BY,KZ,MD,UA,AL,BA,HR,ME,MK,RS,SI,KR,BD,PK,LK,GH,KE,NG,TZ,UG,AG,AM,BS,BB,BZ,BT,BW,BF,CV,CW,DM,FJ,GM,GE,GD,GW,GY,HT,JM,KI,LS,LR,MW,MV,ML,MH,FM,NA,NR,NE,PW,PG,PR,WS,SM,ST,SN,SC,SL,SB,KN,LC,VC,SR,TL,TO,TT,TV,VU,AZ,BN,BI,KH,CM,TD,KM,GQ,SZ,GA,GN,KG,LA,MO,MR,MN,NP,RW,TG,UZ,ZW,BJ,MG,MU,MZ,AO,CI,DJ,ZM,CD,CG,IQ,LY,TJ,VE,ET,XK",
+			"releaseDate": "2021-09-11T00:00:00",
+			"releaseDateFormat": "day",
+			"isrc": null,
+			"ean": null,
+			"upc": "5059805697682",
+			"label": "Reli Beats",
+			"popularity": 7
+		}
+	],
+	"page": 0,
+	"size": 25,
+	"totalElements": 22071,
+	"totalPages": 883
+}
